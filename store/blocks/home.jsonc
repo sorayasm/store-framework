@@ -1,7 +1,7 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
-      
+      "shelf"
     ]
   }
 }
